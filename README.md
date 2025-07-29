@@ -1,3 +1,4 @@
+![logo](https://github.com/Sampat90/Sampat90/blob/main/Sampat%20Das.png)
 <h1 align="center">Hi 👋, I'm Sampat Das</h1>
 <h3 align="center">A passionate Oracle PLSQL developer & FullStack Data Scientist with Generative AI & Agentic AI from India</h3>
 
